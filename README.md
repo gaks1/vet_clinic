@@ -153,9 +153,6 @@ To run tests, run the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
 - query and update animals table.
 - query multiple tables.
 - add "join table" for visits.
