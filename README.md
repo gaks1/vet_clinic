@@ -41,8 +41,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Comprehensive Animal Records]** Store detailed information about each animal, including name, species, date of birth, weight, neutering status, and escape attempts.
 - **[Flexible Schema]** Easily extendable schema to include additional data fields as needed, allowing for the tracking of more animal-specific attributes or medical records.
 
