@@ -1,5 +1,3 @@
-# VET CLINIC DATABASE
-
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
