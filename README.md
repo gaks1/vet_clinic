@@ -9,6 +9,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -35,6 +36,17 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[Comprehensive Animal Records]** Store detailed information about each animal, including name, species, date of birth, weight, neutering status, and escape attempts.
+- **[Flexible Schema]** Easily extendable schema to include additional data fields as needed, allowing for the tracking of more animal-specific attributes or medical records.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
