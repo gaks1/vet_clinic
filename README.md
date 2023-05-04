@@ -1,31 +1,4 @@
-# VET CLINIC DATABASE
-
-## Getting Started
-
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 
 <!-- TABLE OF CONTENTS -->
 
@@ -34,12 +7,10 @@ After you're finished please remove all the comments and instructions!
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-  - [🚀 Live Demo](#live-demo)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -51,25 +22,11 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [VET CLINIC] <a name="about-project"></a>
 
-**[VET CLINIC DATABASE]** is a project chowing the schema of a database, the data inserted and some queries to play around with.
+**[VET CLINIC DATABASE]** is a project showing the schema of a database, the data inserted and some queries to play around with.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -78,11 +35,12 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- LIVE DEMO -->
+<!-- Features -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+### Key Features <a name="key-features"></a>
 
->To be available soon
+- **[Comprehensive Animal Records]** Store detailed information about each animal, including name, species, date of birth, weight, neutering status, and escape attempts.
+- **[Flexible Schema]** Easily extendable schema to include additional data fields as needed, allowing for the tracking of more animal-specific attributes or medical records.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,27 +71,6 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone git@github.com:gaks1/vet_clinic.git
 ```
-
-### Install
-
-Install this project with:
-
-
-```sh
-  cd my-project
-  npm install
-```
-
-### Run tests
-
-To run tests, run the following command:
-
-
-
-```sh
-  npm test
-```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
