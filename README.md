@@ -12,7 +12,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -64,17 +63,6 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone git@github.com:gaks1/vet_clinic.git
 ```
-
-### Run tests
-
-To run tests, run the following command:
-
-
-
-```sh
-  npm test
-```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
